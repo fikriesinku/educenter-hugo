@@ -3,10 +3,8 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Teach skills needed by employers
+    content: Teaching skills needed by employers fast track people into jobs
     animation_in: left
     animation_out: right
     button:
