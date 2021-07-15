@@ -30,7 +30,7 @@ slider:
       label: Apply now
       link: contact
 banner_feature:
-  enable: false
+  enable: true
   image: images/banner/banner-feature.png
   feature_item:
   - name: Scholorship News
