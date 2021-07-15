@@ -136,7 +136,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "info@fasilacademy.com"
 google_analitycs_id = ""
-logo = "images/logos.png"
+logo = "/images/logos-1.png"
 mobile = "+211234565523"
 top_header = true
 [params.cookies]
