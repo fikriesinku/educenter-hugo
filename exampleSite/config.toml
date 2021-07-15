@@ -1,5 +1,5 @@
 baseURL = "https://tvti.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = "tvti"
 paginate = "6"
 summaryLength = "10"
