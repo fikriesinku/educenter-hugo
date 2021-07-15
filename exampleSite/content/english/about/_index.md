@@ -15,14 +15,14 @@ description: 'TVET Institute is community-oriented organisation which serves as 
 
 Assist people to qualify, work and live
 
-Qualifications.
+**Qualifications.**
 
 We are driven by a belief migrants have untapped skills and perseverance that is waiting to be tapped and catalyse social and economic change in the cities they live. UK Qualifications make the biggest difference (from entry level up to advanced) in starting lifelong learning or gaining employment through partnerships and collaboration with employers and training providers. Those with basic qualifications, even as small as a UK driving license, advance. People working without qualifications or in jobs that require no qualifications remain trapped in low paid or unemployment.
 
-TVET upSkilling.
+**TVET upSkilling.**
 
 Occupation-oriented Skills development that fills the immediate needs are prioritised over general rigorous education in the initial phase of migrant integration. This not only meets the employment needs of beneficiaries but also meets the needs of employers and the local economy. The Midlands skill strategy informs our occupation selection. We assist technical qualifications on a range of skills informed by the regional economic needs and plans.
 
-Community Hub
+**Community Hub**
 
 Our ethos is that stronger Communities is at the centre of a healthy society. We integrated a range of community services to help communities thrive by providing a range of services that promote togetherness and social cohesion delivered by experience sharing and volunteering. We promote bilingual services and recruiting from the community itself. Including peer to peer learning.
