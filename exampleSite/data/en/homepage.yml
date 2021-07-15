@@ -80,10 +80,16 @@ success_story:
   enable: true
   bg_image: images/backgrounds/success-story.jpg
   title: Success Stories
-  content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-
-    ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+  content: 'After seeking asylum in the UK in 2017 and granted refugee status in 2018,
+    I went on completing an M.Sc. degree at University of Warwick and then completed
+    a brief work experience in London. Throughout this time, I''ve personally assisted
+    dozens of people on the way made me acutely aware of the difficulty of navigating
+    the immigration, education and career system for people speaking limited English.
+    Worked as an instructor in a higher education in Ethiopia and being able to speak
+    Ethiopian languages added to understanding of what educational and cultural system
+    Ethiopian-Eritrean migrants came from, I’ve the passion and knowledge to support
+    others study, test and qualify by partnering with appropriate institutions and
+    signposting them when necessary.  '
   video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
   enable: true
