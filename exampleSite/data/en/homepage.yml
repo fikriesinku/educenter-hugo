@@ -3,8 +3,8 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Teach skills needed by employers
-    content: Teaching skills needed by employers fast track people into jobs
+  - title: Gain skills employers need
+    content: Teaching skills employers need and fast track into jobs
     animation_in: left
     animation_out: right
     button:
